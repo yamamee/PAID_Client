@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+  <paidInformation>
+    <humanResource>
+      <workerCode>adminaaaa</workerCode>
+      <firstName>本田</firstName>
+      <lastName>政雄</lastName>
+      <department>業務部</department>
+      <remainingDays>8</remainingDays>
+    </humanResource>
+  </paidInformation>
+</root>
